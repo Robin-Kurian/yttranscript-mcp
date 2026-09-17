@@ -1,0 +1,4 @@
+mcp>=2.2.0
+requests>=2.32.0
+youtube-transcript-api>=1.2.0
+yt-dlp>=2025.1.0

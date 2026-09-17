@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "youtube-transcript": {
+      "command": "/absolute/path/to/yttranscript-mcp/.venv/bin/python",
+      "args": ["/absolute/path/to/yttranscript-mcp/server.py"]
+    }
+  }
+}
