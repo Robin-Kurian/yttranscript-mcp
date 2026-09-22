@@ -1,3 +1,5 @@
+![YT Music Manager](https://res.cloudinary.com/itsrobin/image/upload/v1790092965/youtube_transcript_pm6tru.png)
+
 # YouTube Transcript
 
 A local MCP server that fetches a YouTube transcript and returns a summary first, then the full caption text. You clone it, add optional Groq/OpenAI keys, then point an AI coding tool at `server.py`.
