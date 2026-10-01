@@ -1,4 +1,4 @@
-![YT Music Manager](https://res.cloudinary.com/itsrobin/image/upload/v1790092965/youtube_transcript_pm6tru.png)
+![YT Music Manager](https://res.cloudinary.com/itsrobin/image/upload/v1790838489/Executor_Productivity_App_Hero_Medium_djoxok.jpg)
 
 # YouTube Transcript
 
